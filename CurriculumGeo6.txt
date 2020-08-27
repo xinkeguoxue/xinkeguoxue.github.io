@@ -1,0 +1,14 @@
+Geometry
+
+Week 1 - Triangle geometry, Ceva's Theorem,
+Week 2 - Quadrilaterals
+Week 3 - Polygons and the Big Picture
+Week 4 - Circles
+Week 5 - Trigonometry in Geometry
+Week 6 - Locus 
+Week 7 - 3D Geometry
+Week 8 - Transformations
+Week 9 - Coordinate geometry
+Week 10- Complex Numbers in Geometry
+
+(Most problems in these lesson are computational, and aimed at the second half of the AIME level problems)
